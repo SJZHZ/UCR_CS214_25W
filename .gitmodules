@@ -1,3 +1,6 @@
 [submodule "hw0-reduce-SJZHZ"]
 	path = hw0-reduce-SJZHZ
 	url = git@github.com:ucrparlay-class/hw0-reduce-SJZHZ.git
+[submodule "hw1-integral-SJZHZ"]
+	path = hw1-integral-SJZHZ
+	url = git@github.com:ucrparlay-class/hw1-integral-SJZHZ.git
