@@ -4,3 +4,9 @@
 [submodule "hw1-integral-SJZHZ"]
 	path = hw1-integral-SJZHZ
 	url = git@github.com:ucrparlay-class/hw1-integral-SJZHZ.git
+[submodule "project1-sorting-SJZHZ"]
+	path = project1-sorting-SJZHZ
+	url = git@github.com:ucrparlay-class/project1-sorting-SJZHZ.git
+[submodule "hw2-scan-SJZHZ"]
+	path = hw2-scan-SJZHZ
+	url = git@github.com:ucrparlay-class/hw2-scan-SJZHZ.git
