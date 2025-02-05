@@ -10,3 +10,6 @@
 [submodule "hw2-scan-SJZHZ"]
 	path = hw2-scan-SJZHZ
 	url = git@github.com:ucrparlay-class/hw2-scan-SJZHZ.git
+[submodule "project2-bfs-SJZHZ"]
+	path = project2-bfs-SJZHZ
+	url = git@github.com:ucrparlay-class/project2-bfs-SJZHZ.git
