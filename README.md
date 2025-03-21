@@ -2,6 +2,8 @@
 ## Information
 UCR CS214 25-Winter: Parallel Algorithm(by Professor Yihan Sun)
 
+The best course ever!
+
 Includes all bonuses. I believe it should have been all full points...
 ## Files
 ```txt
@@ -27,3 +29,5 @@ Includes all bonuses. I believe it should have been all full points...
 ## Projects
 1. [Sorting](https://github.com/ucrparlay-class/project1-sorting-SJZHZ)
 2. [BFS](https://github.com/ucrparlay-class/project2-bfs-SJZHZ)
+
+## [Final](https://www.overleaf.com/project/67c6105cd9e65ef90b4a01e3)
