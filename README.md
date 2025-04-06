@@ -4,7 +4,7 @@ UCR CS214 25-Winter: Parallel Algorithm(by Professor Yihan Sun)
 
 The best course ever!
 
-Includes all bonuses. I believe it should have been all full points...
+Includes almost all bonuses.
 ## Files
 ```txt
 .
